@@ -1,0 +1,199 @@
+{
+  "changelog": [
+    {
+      "plan": "starter",
+      "setCurrPlan":"starter",
+      "colour": "#70CDFF",
+      "annualPricing": 49,
+      "monthlyPricing": 59,
+      "offerMonthly": "14-day free trial",
+      "offerAnnually": "Save $10 each month",
+      "featuresHead": "Everything in Free, plus:",
+      "features": [
+        "Up to 5000 visitors",
+        "Boosted announcements",
+        "Remove watermark",
+        "Appearance customization",
+        "Post Scheduling",
+        "Advanced analytics",
+        "Multiple languages",
+        "Auto refresh",
+        "Unlimited teammates"
+      ]
+    },
+    {
+      "plan": "pro",
+      "setCurrPlan":"pro",
+      "colour": "#FF6ED1",
+      "annualPricing": 99,
+      "monthlyPricing": 119,
+      "offerMonthly": "14-day free trial",
+      "offerAnnually": "Save $20 each month",
+      "featuresHead": "Everything in Starter, plus:",
+      "features": [
+        "Up to 10,000 visitors",
+        "Email notifications",
+        "Inbox",
+        "Push notifications (Web)",
+        "User segmentation",
+        "Comments and reactions",
+        "Custom domain",
+        "Customizable CSS",
+        "Sync across devices",
+        "Segment by URL",
+        "Dynamic Content"
+      ]
+    },
+    {
+      "plan": "scale",
+      "setCurrPlan":"scale",
+      "colour": "#3DE099",
+      "annualPricing": 249,
+      "monthlyPricing": 299,
+      "offerMonthly": "14-day free trial",
+      "offerAnnually": "Save $50 each month",
+      "featuresHead": "Everything in Pro, plus:",
+      "features": [
+        "Up to 50,000 visitors (Need more? (<a href='/login'> Click here!</a>))",
+        "Advanced segmentation",
+        "Single-user notifications",
+        "User activity tracking",
+        "Multiple categories",
+        "Custom scripting",
+        "Segment.com integration",
+        "High priority support",
+        "Audit logs"
+      ]
+    },
+    {
+      "plan": "custom",
+      "setCurrPlan":"custom",
+      "colour": "#6C37FF",
+      "annualPricing": "Let's Talk",
+      "monthlyPricing": "Let's Talk",
+      "offerMonthly": "14-day free trial",
+      "offerAnnually": "14-day free trial",
+      "featuresHead": "Everything in Scale, plus:",
+      "features": [
+        " Unlimited users",
+        "SOC 2 Type II full report access",
+        "Vendor review",
+        "Custom security forms",
+        "Onboarding and installation assistance",
+        "Personal executive",
+        "Custom contracts and SLA",
+        "Invoices / Bank transfer / ACH"
+      ]
+    }
+  ],
+  "nps": [
+    {
+      "plan": "NPS FREE",
+      "setCurrPlan":"FREE",
+      "colour": "#FFD064",
+      "monthlyPricing": 0,
+      "offerMonthly": "14-day free trial",
+      "featuresHead": "Includes:",
+      "features": [
+        "Up to 500 monthly surveys",
+        "In-app surveys (watermarked)",
+        "NPS history (last 90 days)"
+      ]
+    },
+    {
+      "plan": "NPS PRO",
+      "setCurrPlan":"PRO",
+      "colour": "#FF6ED1",
+      "monthlyPricing": 99,
+      "offerMonthly": "No Hidden Fees",
+      "featuresHead": "Everything in Free, plus:",
+      "features": [
+        "Up to 2,000 monthly surveys",
+        "In-app surveys",
+        "Via email",
+        "Basic segmentation",
+        "Score types",
+        "Zapier integration",
+        "Multiple languages",
+        "Customizable questions",
+        "NPS History (Unlimited)"
+      ]
+    },
+    {
+      "plan": "NPS SCALE",
+      "setCurrPlan":"SCALE",
+      "colour": "#3DE099",
+      "monthlyPricing": 199,
+      "offerMonthly": "No Hidden Fees",
+      "featuresHead": "Everything in Pro, plus:",
+      "features": [
+        "Up to 10,000 monthly surveys",
+        "Advanced Segmentation",
+        "Custom email address (SOON)",
+        "Automatic follow up (SOON)"
+      ]
+    },
+    {
+      "plan": "NPS ENTERPRISE",
+      "setCurrPlan":"ENTERPRISE",
+      "colour": "#6C37FF",
+      "annualPricing": "Let's Talk",
+      "monthlyPricing": "Let's Talk",
+      "offerMonthly": "14-day free trial",
+      "featuresHead": "Everything in Scale, plus:",
+      "features": [
+        "10,000+ monthly surveys",
+        "Shareable links",
+        "NPS History - Unlimited",
+        "In-app surveys",
+        "Email Surveys",
+        "User Segmentation",
+        "Zapier and API+ Webhooks Integration",
+        "Multiple languages",
+        "Customizable questions",
+        "NPS score types",
+        "Advanced segmentation",
+        "Custom email address (SOON)",
+        "Automatic follow up (SOON)"
+      ]
+    }
+  ],
+  "feedback": [
+    {
+      "plan": "FEEDBACK FREE",
+      "setCurrPlan":"FREE",
+      "colour": "#FFD064",
+      "monthlyPricing": 0,
+      "annualPricing": 0,
+      "offerMonthly": "No Hidden Fees",
+      "offerAnnually": "No Hidden Fees",
+      "featuresHead": "Includes:",
+      "features": [
+        "Public ideas",
+        "Widget & Standalone page",
+        "Status tracking"
+      ]
+    },
+    {
+      "plan": "FEEDBACK PRO",
+      "setCurrPlan":"PRO",
+      "colour": "#FF6ED1",
+      "monthlyPricing": 119,
+      "annualPricing": 99,
+      "offerMonthly": " ",
+      "offerAnnually": "Save $20 each month",
+      "featuresHead": "Everything in Feedback Free, plus:",
+      "features": [
+        "Content moderation",
+        "Reply to ideas & comments",
+        "Automatically update users",
+        "Remove watermark",
+        "Appearance customization",
+        "Integrations & API",
+        "User segmentation",
+        "Custom domain, statuses & categories",
+        "Prioritization"
+      ]
+    }
+  ]
+}
