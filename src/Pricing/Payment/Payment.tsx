@@ -22,7 +22,7 @@ const PricingDetails = () => {
 
     getCardDetails();
   }, []);
-
+  
   return (
     <div className="mt-16 p-6 w-full ">
       <div className=" mb-10 mt-10 p-0">

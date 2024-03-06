@@ -2,7 +2,7 @@
   "changelog": [
     {
       "plan": "starter",
-      "setCurrPlan":"starter",
+      "setCurrPlan": "starter",
       "colour": "#70CDFF",
       "annualPricing": 49,
       "monthlyPricing": 59,
@@ -23,7 +23,7 @@
     },
     {
       "plan": "pro",
-      "setCurrPlan":"pro",
+      "setCurrPlan": "pro",
       "colour": "#FF6ED1",
       "annualPricing": 99,
       "monthlyPricing": 119,
@@ -46,7 +46,7 @@
     },
     {
       "plan": "scale",
-      "setCurrPlan":"scale",
+      "setCurrPlan": "scale",
       "colour": "#3DE099",
       "annualPricing": 249,
       "monthlyPricing": 299,
@@ -67,7 +67,7 @@
     },
     {
       "plan": "custom",
-      "setCurrPlan":"custom",
+      "setCurrPlan": "custom",
       "colour": "#6C37FF",
       "annualPricing": "Let's Talk",
       "monthlyPricing": "Let's Talk",
@@ -89,7 +89,7 @@
   "nps": [
     {
       "plan": "NPS FREE",
-      "setCurrPlan":"FREE",
+      "setCurrPlan": "FREE",
       "colour": "#FFD064",
       "monthlyPricing": 0,
       "offerMonthly": "14-day free trial",
@@ -102,7 +102,7 @@
     },
     {
       "plan": "NPS PRO",
-      "setCurrPlan":"PRO",
+      "setCurrPlan": "PRO",
       "colour": "#FF6ED1",
       "monthlyPricing": 99,
       "offerMonthly": "No Hidden Fees",
@@ -121,7 +121,7 @@
     },
     {
       "plan": "NPS SCALE",
-      "setCurrPlan":"SCALE",
+      "setCurrPlan": "SCALE",
       "colour": "#3DE099",
       "monthlyPricing": 199,
       "offerMonthly": "No Hidden Fees",
@@ -129,13 +129,13 @@
       "features": [
         "Up to 10,000 monthly surveys",
         "Advanced Segmentation",
-        "Custom email address (SOON)",
-        "Automatic follow up (SOON)"
+        "Custom email address SOON",
+        "Automatic follow up SOON"
       ]
     },
     {
       "plan": "NPS ENTERPRISE",
-      "setCurrPlan":"ENTERPRISE",
+      "setCurrPlan": "ENTERPRISE",
       "colour": "#6C37FF",
       "annualPricing": "Let's Talk",
       "monthlyPricing": "Let's Talk",
@@ -153,15 +153,15 @@
         "Customizable questions",
         "NPS score types",
         "Advanced segmentation",
-        "Custom email address (SOON)",
-        "Automatic follow up (SOON)"
+        "Custom email address SOON",
+        "Automatic follow up SOON"
       ]
     }
   ],
   "feedback": [
     {
       "plan": "FEEDBACK FREE",
-      "setCurrPlan":"FREE",
+      "setCurrPlan": "FREE",
       "colour": "#FFD064",
       "monthlyPricing": 0,
       "annualPricing": 0,
@@ -176,7 +176,7 @@
     },
     {
       "plan": "FEEDBACK PRO",
-      "setCurrPlan":"PRO",
+      "setCurrPlan": "PRO",
       "colour": "#FF6ED1",
       "monthlyPricing": 119,
       "annualPricing": 99,

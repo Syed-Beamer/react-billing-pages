@@ -16,7 +16,32 @@ export default function Plan({ item, setShow, show }: PlanProps) {
   const handleClick = (planValue: string) => {
     setCurrentPricing(planValue);
   };
-
+  const highlightSoon = (text: string) => {
+    const soonIndex = text.toLowerCase().indexOf("soon");
+    if (soonIndex !== -1) {
+      return (
+        <span>
+          {text.substring(0, soonIndex)}
+          <span
+            style={{
+              backgroundColor: "#FBBC05",
+              borderRadius: "2px",
+              marginLeft: "4px",
+              padding: "4px",
+              // paddingRight: "4px",
+              fontSize: "10px",
+              height: "12px",
+              width: "30px",
+              fontWeight: "bold",
+            }}
+          >
+            SOON
+          </span>
+        </span>
+      );
+    }
+    return text;
+  };
   return (
     <div
       className={
@@ -104,7 +129,7 @@ export default function Plan({ item, setShow, show }: PlanProps) {
                     <span className="mr-2">
                       <Icons.plainTick color={item.colour} />
                     </span>
-                    <span className="block">{j} </span>
+                    <span className="block">{highlightSoon(j)} </span>
                   </li>
                 );
               }
